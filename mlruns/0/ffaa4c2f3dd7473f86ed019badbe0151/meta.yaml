@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLProjectNew/DiamondPricePredictionNew/mlruns/0/ffaa4c2f3dd7473f86ed019badbe0151/artifacts
+end_time: 1738672960131
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffaa4c2f3dd7473f86ed019badbe0151
+run_name: capricious-fawn-379
+run_uuid: ffaa4c2f3dd7473f86ed019badbe0151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738672940890
+status: 4
+tags: []
+user_id: DELL
