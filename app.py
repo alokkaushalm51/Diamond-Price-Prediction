@@ -9,7 +9,7 @@ app=Flask(__name__)
 @app.route("/",methods=["GET","POST"])
 def predict_datapoint():
     if request.method == "GET":
-        return render_template("index.html")
+        return render_template("form.html")
     
     else:
         data=CustomData(
@@ -33,7 +33,7 @@ def predict_datapoint():
         
         result=round(pred[0],2)
         
-        return render_template("form.html",final_result=result)
+        return render_template("result.html",final_result=result)
 
 #execution begin
 if __name__ == '__main__':
