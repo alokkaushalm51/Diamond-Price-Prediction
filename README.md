@@ -1,10 +1,9 @@
-```markdown
 # 💎 Diamond Price Prediction
 
 ## 📖 Overview
 Diamond Price Prediction is a **Machine Learning Web Application** built using **Flask, Scikit-Learn, Pandas, NumPy, and Matplotlib**. It predicts diamond prices based on various attributes like **carat, cut, color, clarity, etc.**
 
-! [image](static/images/Screenshot (39).png)
+![image](https://github.com/alokkaushalm51/Diamond-Price-Prediction/blob/main/static/images/Screenshot%20(39).png)
 
 This project follows a **modular approach**, including:
 - **Data Ingestion**
@@ -150,7 +149,7 @@ This project is open-source and available under the **MIT License**.
 ## 📧 Contact
 For any issues or suggestions, feel free to reach out:  
 📧 Email: `alokkaushal777@gmail.com`  
-🔗 GitHub: [https://github.com/alokkaushalm51/DiamondPricePredictionProject]
+🔗 GitHub: [https://github.com/alokkaushalm51/Diamond-Price-Prediction]
 
 ---
 
