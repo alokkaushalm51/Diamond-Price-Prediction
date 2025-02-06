@@ -158,7 +158,6 @@ Special thanks to **Scikit-Learn, Pandas, NumPy, Flask, and Matplotlib** for pro
 
 ---
 
-🚀 **Now your README is fully documented for GitHub!**  
 📌 **Next Steps:**
 ```bash
 git add README.md
